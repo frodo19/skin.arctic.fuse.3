@@ -600,12 +600,27 @@ msgctxt "#31122"
 msgid "Watchlist"
 msgstr ""
 
+#: /1080i/Includes_SkinSettings.xml
+msgctxt "#31123"
+msgid "Plot line"
+msgstr ""
+
 msgctxt "#31124"
 msgid "Indicator"
 msgstr ""
 
 msgctxt "#31125"
 msgid "Invert Text Colour"
+msgstr ""
+
+#: /1080i/Includes_SkinSettings.xml
+msgctxt "#31126"
+msgid "Plotline"
+msgstr ""
+
+#: /1080i/Includes_SkinSettings.xml
+msgctxt "#31127"
+msgid "Genre colours"
 msgstr ""
 
 #: /1080i/Includes_MediaFilter.xml

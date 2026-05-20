@@ -33,7 +33,7 @@ msgstr "混合：方形"
 #: /1080i/Includes_Views_Combined.xml
 msgctxt "#31003"
 msgid "Combined Landscape"
-msgstr "混合：横幅"
+msgstr "混合：横版"
 
 #: /1080i/Includes_Views_Combined.xml
 msgctxt "#31004"
@@ -233,7 +233,7 @@ msgstr "视图类型"
 #: /1080i/Includes_Labels.xml
 msgctxt "#31045"
 msgid "Landscape"
-msgstr "横幅"
+msgstr "横版"
 
 #: /1080i/Includes_Search.xml
 msgctxt "#31046"
@@ -293,17 +293,17 @@ msgstr "岁"
 #: /1080i/Includes_Labels.xml
 msgctxt "#31058"
 msgid "Wrap"
-msgstr "列表循环"
+msgstr "循环环绕"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31059"
 msgid "Side"
-msgstr "侧边行为"
+msgstr "侧边"
 
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31060"
 msgid "Slide"
-msgstr "沉浸模式"
+msgstr "滑动"
 
 #: /shortcuts/template.xml
 msgctxt "#31061"
@@ -459,7 +459,7 @@ msgstr "详细信息"
 #: /1080i/Includes_SkinSettings.xml
 msgctxt "#31093"
 msgid "Cycle extra fanart"
-msgstr "循环切换额外同人画"
+msgstr "循环切换额外背景图"
 
 #: /1080i/SkinSettings.xml
 msgctxt "#31094"
@@ -538,13 +538,18 @@ msgctxt "#31109"
 msgid "Edit group"
 msgstr "编辑分组"
 
+#: /1080i/Includes_Info.xml
+msgctxt "#31110"
+msgid "Starts at"
+msgstr "开始于"
+
 msgctxt "#31111"
 msgid "Row Poster"
 msgstr "行：海报"
 
 msgctxt "#31112"
 msgid "Row Landscape"
-msgstr "行：横幅"
+msgstr "行：横版"
 
 msgctxt "#31113"
 msgid "Row Square"
@@ -585,10 +590,20 @@ msgctxt "#31120"
 msgid "List Basic"
 msgstr "列表：基础"
 
+#: /1080i/Dialog_FileBrowser.xml
+msgctxt "#31121"
+msgid "Mirror"
+msgstr "镜像"
+
 #: /1080i/Includes_MediaFilter.xml
 msgctxt "#31122"
 msgid "Watchlist"
 msgstr "待看列表"
+
+#: /1080i/Includes_SkinSettings.xml
+msgctxt "#31123"
+msgid "Plot line"
+msgstr "剧情简介"
 
 msgctxt "#31124"
 msgid "Indicator"
@@ -597,6 +612,16 @@ msgstr "指示器"
 msgctxt "#31125"
 msgid "Invert Text Colour"
 msgstr "反转文本颜色"
+
+#: /1080i/Includes_SkinSettings.xml
+msgctxt "#31126"
+msgid "Plotline"
+msgstr "剧情简介"
+
+#: /1080i/Includes_SkinSettings.xml
+msgctxt "#31127"
+msgid "Genre colours"
+msgstr "类型配色"
 
 #: /1080i/Includes_MediaFilter.xml
 msgctxt "#31128"
@@ -1055,23 +1080,23 @@ msgstr "处理器"
 
 msgctxt "#31259"
 msgid "FPS"
-msgstr "帧率"
+msgstr "FPS"
 
 msgctxt "#31260"
 msgid "AR"
-msgstr "宽高比"
+msgstr "AR"
 
 msgctxt "#31261"
 msgid "px"
-msgstr "像素"
+msgstr "px"
 
 msgctxt "#31262"
 msgid "Hz"
-msgstr "赫兹"
+msgstr "Hz"
 
 msgctxt "#31263"
 msgid "bits"
-msgstr "位"
+msgstr "bits"
 
 msgctxt "#31264"
 msgid "Revenue"
@@ -1126,7 +1151,7 @@ msgstr "已播放"
 #: /1080i/Includes_Labels.xml
 msgctxt "#31284"
 msgid "Discover movies and tvshows on TMDb."
-msgstr "在 TMDb 上探索电影和剧集。"
+msgstr "在 TMDb 上探索电影和电视剧。"
 
 msgctxt "#31285"
 msgid "Classification (MPAA)"
@@ -1184,7 +1209,7 @@ msgstr "播放列表"
 #: /1080i/SkinSettings.xml
 msgctxt "#31297"
 msgid "Extra fanart"
-msgstr "额外同人画"
+msgstr "额外背景图"
 
 msgctxt "#31298"
 msgid "Movies and tv shows starring this actor"
@@ -1372,7 +1397,7 @@ msgstr "切换用户"
 #: /1080i/Includes_Items.xml
 msgctxt "#31362"
 msgid "Side items"
-msgstr "侧边栏项目"
+msgstr "侧边项目"
 
 #: /1080i/Includes_Items.xml
 msgctxt "#31363"
@@ -1517,7 +1542,7 @@ msgstr "最近电影"
 
 msgctxt "#31397"
 msgid "Recent Tv Shows"
-msgstr "最近剧集"
+msgstr "最近电视剧"
 
 msgctxt "#31398"
 msgid "New Movies"
@@ -2118,7 +2143,7 @@ msgstr "墙：海报"
 #: /1080i/Includes_Views_Wall.xml
 msgctxt "#31555"
 msgid "Wall Landscape"
-msgstr "墙：横幅"
+msgstr "墙：横版"
 
 #: /1080i/Includes_Views_Wall.xml
 msgctxt "#31556"
